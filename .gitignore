@@ -25,3 +25,7 @@ rerun
 sut.yaml
 
 **/.coverage
+
+# local / generated reports and OS cruft
+reports/
+.DS_Store
